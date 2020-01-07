@@ -4,6 +4,6 @@ This project is to practice my skills I've learn so far. I will build a tip calc
 
 I will build this with HTML, CSS , and javascript
 
-please use any browser or mobile device to run code
+please use any browser or mobile device to run page!
 
 Enjoy!
